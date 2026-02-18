@@ -78,6 +78,6 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-#### Settings.py:
+#### settings.py:
 Change EMAIL_HOST_USER='your email' and EMAIL_HOST_PASSWORD='password'
 

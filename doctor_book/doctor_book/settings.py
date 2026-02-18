@@ -130,8 +130,8 @@ EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
 EMAIL_USE_SSL=False
-EMAIL_HOST_USER='isayan635@gmail.com'
-EMAIL_HOST_PASSWORD='rxpmoxlsisuphcvo'
+EMAIL_HOST_USER='Your Mail ID'
+EMAIL_HOST_PASSWORD='Password'
 
 REST_FRAMEWORK = {
 
